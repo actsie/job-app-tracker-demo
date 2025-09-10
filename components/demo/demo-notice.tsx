@@ -1,19 +1,20 @@
-import { config } from '@/lib/config';
+import { AlertTriangle } from 'lucide-react';
 
 interface DemoNoticeProps {
   message: string;
 }
 
 /**
- * Conditional demo notice that only shows in demo mode
- * Provides contextual guidance about demo limitations
+ * Demo notice for demo build
+ * Always shows since this is the demo version with prominent warning icon
  */
 export function DemoNotice({ message }: DemoNoticeProps) {
-  if (!config.demo.client) return null;
-  
   return (
-    <p className="mt-2 text-xs text-muted-foreground italic">
-      {message}
-    </p>
+    <div className="mt-2 flex items-center justify-center gap-2 p-2 bg-yellow-50 border border-yellow-200 rounded-md">
+      <AlertTriangle className="h-4 w-4 text-yellow-600 flex-shrink-0" />
+      <p className="text-xs text-yellow-800 font-medium text-center">
+        {message}
+      </p>
+    </div>
   );
 }

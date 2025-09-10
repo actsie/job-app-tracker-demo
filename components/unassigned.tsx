@@ -345,7 +345,7 @@ export function Unassigned({ onAttachToJob, onCreateJobFromResume }: UnassignedP
           </div>
 
           {/* Demo Notice */}
-          <DemoNotice message="Demo: Files upload for testing but won't persist after reset." />
+          <DemoNotice message="This is a demo environment — please don't upload real resumes or sensitive data. Files reset periodically." />
         </CardContent>
       </Card>
 

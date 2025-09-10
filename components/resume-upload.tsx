@@ -329,7 +329,7 @@ export function ResumeUpload({ jobUuid, company, role, yourName, onUploadComplet
         )}
 
         {/* Demo Notice */}
-        <DemoNotice message="Demo: Files upload for testing but won't persist after reset." />
+        <DemoNotice message="This is a demo environment — please don't upload real resumes or sensitive data. Files reset periodically." />
 
         {/* Info */}
         <div className="text-xs text-gray-500 space-y-1">
