@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google'
 import { Toaster } from '@/components/ui/toaster'
 import InAppNotificationManager from '@/components/in-app-notification'
 import PawgrammerBanner from '@/components/pawgrammer-banner'
+import VideoNudge from '@/components/VideoNudge'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -24,6 +25,7 @@ export default function RootLayout({
         {children}
         <Toaster />
         <InAppNotificationManager />
+        <VideoNudge url="https://youtu.be/pGNIEEcD3f8" />
       </body>
     </html>
   )
