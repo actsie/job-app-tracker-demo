@@ -986,7 +986,9 @@ Netflix perks:
                 <Trash2 className="h-4 w-4 mr-2" />
                 Clear All
               </Button>
-              <AddApplication onApplicationAdded={handleApplicationAdded} />
+              <div className="hidden">
+                <AddApplication onApplicationAdded={handleApplicationAdded} />
+              </div>
             </div>
           </div>
           
