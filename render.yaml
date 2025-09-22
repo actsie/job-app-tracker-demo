@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: job-app-tracker-demo
+    env: node
+    plan: free
+    buildCommand: npm install; npm run build
+    startCommand: npm start
+    envVars:
+      - key: NEXT_PUBLIC_DEMO_MODE
+        value: true
+      - key: DEMO_MODE
+        value: true
+      - key: MAX_UPLOAD_FILES
+        value: 10
+      - key: MAX_FILE_SIZE_MB
+        value: 5
+      - key: ALLOWED_EXTENSIONS
+        value: pdf,docx,txt
+      - key: DEMO_DATA_SEED
+        value: 42
+      - key: DEMO_SESSION_TIMEOUT
+        value: 3600000

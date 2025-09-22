@@ -1,0 +1,76 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+
+# Production build
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Browser extension temporary files
+.browser-auth-token
+
+# Test results
+test-results/
+
+# Personal resume data - DO NOT COMMIT
+temp-uploads/
+managed-resumes/
+Resumes/
+resume-manifest.json
+operations-log.json
+file-management-config.json
+bulk-import-temp.json
+
+# Playwright screenshots
+.playwright-mcp/
+
+# Job application data
+job-descriptions/
+
+# Test files and evidence
+test-*.js
+test-*.html
+test-*.txt
+*-test-*.js
+*-screenshot*.png
+*_EVIDENCE.md
+deduplication-test-*.json
+deduplication-test-*.html
+Resumes/
+resume-manifest.json
+operations-log.json
+file-management-config.json
+bulk-import-temp.json

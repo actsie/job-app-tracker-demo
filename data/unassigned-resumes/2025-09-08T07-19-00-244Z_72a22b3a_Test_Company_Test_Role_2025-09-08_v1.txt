@@ -1,0 +1,46 @@
+John Doe
+Software Engineer
+
+Contact Information:
+Email: john.doe@example.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+
+Experience:
+Senior Software Engineer at TechCorp (2020-2024)
+- Developed and maintained web applications using React and Node.js
+- Led a team of 5 developers on major product features
+- Improved application performance by 40% through optimization
+- Collaborated with cross-functional teams to deliver projects on time
+
+Software Developer at StartupXYZ (2018-2020)
+- Built full-stack applications using JavaScript, Python, and SQL
+- Implemented automated testing suites, reducing bugs by 30%
+- Participated in code reviews and mentored junior developers
+- Contributed to architectural decisions and system design
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Berkeley (2014-2018)
+- GPA: 3.8/4.0
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+
+Skills:
+- Programming Languages: JavaScript, Python, Java, TypeScript
+- Frameworks: React, Node.js, Express, Django
+- Databases: PostgreSQL, MongoDB, Redis
+- Tools: Git, Docker, AWS, Jenkins
+- Methodologies: Agile, Test-Driven Development
+
+Projects:
+E-commerce Platform (2023)
+- Built a scalable e-commerce platform serving 100k+ users
+- Implemented payment processing, inventory management, and user authentication
+- Used microservices architecture with Docker and Kubernetes
+
+Personal Finance App (2022)
+- Developed a mobile app for budget tracking and financial planning
+- Integrated with bank APIs for real-time transaction data
+- Achieved 4.8-star rating on app stores with 50k+ downloads
+
+This is a comprehensive resume that should provide plenty of content for testing the text extraction and preview functionality.

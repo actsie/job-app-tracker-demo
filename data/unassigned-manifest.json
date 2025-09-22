@@ -1,0 +1,40 @@
+{
+  "resumes": [
+    {
+      "id": "0ba86c19-5249-4ebf-bdc3-b39d171461d3",
+      "filename": "test-resume.txt",
+      "managed_path": "/Users/stacyenot/Pawgrammer/Job-App-Tracker-v1Demo/job-app-tracker-demo/data/unassigned-resumes/2025-09-08T06-48-09-553Z_0ba86c19_test-resume.txt",
+      "file_size": 606,
+      "file_extension": ".txt",
+      "content_hash": "265974a3d03d2e9d794a40c285197e5aa133abcd6255a22a7abc76ee7380925f",
+      "uploaded_at": "2025-09-08T06:48:09.553Z",
+      "extraction_status": "success",
+      "preview_available": false,
+      "extracted_text": "John Doe\nSoftware Engineer Resume\n\nEXPERIENCE:\n• Senior Software Engineer at Tech Corp (2020-2024)\n• Full-stack development with React, Node.js, Python\n• Led team of 5 engineers on mobile app project\n• Increased system performance by 40%\n\nEDUCATION:\n• Computer Science Degree, State University (2020)\n• GPA: 3.8/4.0\n\nSKILLS:\n• Programming: JavaScript, Python, TypeScript, Java\n• Frameworks: React, Vue.js, Express, Django\n• Databases: PostgreSQL, MongoDB, Redis\n• Cloud: AWS, Docker, Kubernetes\n\nCONTACT:\nEmail: john.doe@email.com\nPhone: (555) 123-4567\nLinkedIn: linkedin.com/in/johndoe"
+    },
+    {
+      "id": "b1694e07-b7e3-42a9-9f63-f7736e1ab19c",
+      "filename": "Aurora_Resume (1).docx",
+      "managed_path": "/Users/stacyenot/Pawgrammer/Job-App-Tracker-v1Demo/job-app-tracker-demo/data/unassigned-resumes/2025-09-08T06-56-31-471Z_b1694e07_Aurora_Resume__1_.docx",
+      "file_size": 8667,
+      "file_extension": ".docx",
+      "content_hash": "7521a32d89bebf1f1a86d5897bb30cb3975baeee76e41294c0a38aab56350e9c",
+      "uploaded_at": "2025-09-08T06:56:31.472Z",
+      "extraction_status": "success",
+      "preview_available": true,
+      "extracted_text": "Princess Aurora of Everglen\n\nFuture Ruler | Curse Breaker | Diplomat of Enchanted Realms\n\n\n\nObjective\n\nTo serve as a beacon of hope, courage, and kindness within the kingdom, while managing magical crises, uniting diverse creatures, and ensuring that all citizens (enchanted or otherwise) live happily ever after.\n\n\n\nExperience\n\nRoyal Apprentice, Everglen Kingdom Childhood – Present\n\nRepresented the royal family at balls, coronations, and public feasts.\n\nMediated disputes between woodland animals, dwarves, and talking furniture.\n\nEscaped multiple kidnappings and tower imprisonments, demonstrating resilience and crisis management.\n\nPartnered with fairy godmothers, wizards, and princes on kingdom-wide problem solving.\n\nEnchanted Forest Intern Seasonal Quests\n\nCollaborated with magical creatures to maintain forest harmony.\n\nCollected intelligence on witches, curses, and suspicious stepmothers.\n\nRescued lost villagers with guidance from birds, mice, and enchanted maps.\n\n\n\nSkills\n\nDiplomacy and alliance building; fluent in royal etiquette and animal languages (avian, rodent, dragon).\n\nCrisis management, including curse survival, troll negotiations, and spell-breaking.\n\nPublic performance: skilled in spontaneous singing and waltzing.\n\nWardrobe and presentation: able to maintain impeccable gowns in hostile conditions.\n\nLeadership: inspires loyalty in citizens and companions alike.\n\n\n\nEducation\n\nRoyal Academy of Enchanted Studies Major: Grace and Diplomacy Minor: Curse Survival and Songcraft\n\n\n\nHonors and Awards\n\n“Fairest in the Land” (peer-reviewed, annually contested).\n\nRecipient of the Happily Ever After Distinction for outstanding service in fairy-tale resolution.\n\n\n\nReferences\n\nFairy Godmother\n\nSeven Dwarves Union\n\nTalking Mirror (available upon reflection)\n\n\n\n"
+    },
+    {
+      "id": "72a22b3a-ef11-4c8b-8296-b045c03637a6",
+      "filename": "Test_Company_Test_Role_2025-09-08_v1.txt",
+      "managed_path": "/Users/stacyenot/Pawgrammer/Job-App-Tracker-v1Demo/job-app-tracker-demo/data/unassigned-resumes/2025-09-08T07-19-00-244Z_72a22b3a_Test_Company_Test_Role_2025-09-08_v1.txt",
+      "file_size": 1750,
+      "file_extension": ".txt",
+      "content_hash": "77b8275a5be0c7249cbe5ad152feaed17de14ea8ad095d391ac0d94eba6be9cb",
+      "uploaded_at": "2025-09-08T07:19:00.244Z",
+      "extraction_status": "success",
+      "preview_available": false,
+      "extracted_text": "John Doe\nSoftware Engineer\n\nContact Information:\nEmail: john.doe@example.com\nPhone: (555) 123-4567\nLocation: San Francisco, CA\n\nExperience:\nSenior Software Engineer at TechCorp (2020-2024)\n- Developed and maintained web applications using React and Node.js\n- Led a team of 5 developers on major product features\n- Improved application performance by 40% through optimization\n- Collaborated with cross-functional teams to deliver projects on time\n\nSoftware Developer at StartupXYZ (2018-2020)\n- Built full-stack applications using JavaScript, Python, and SQL\n- Implemented automated testing suites, reducing bugs by 30%\n- Participated in code reviews and mentored junior developers\n- Contributed to architectural decisions and system design\n\nEducation:\nBachelor of Science in Computer Science\nUniversity of California, Berkeley (2014-2018)\n- GPA: 3.8/4.0\n- Relevant coursework: Data Structures, Algorithms, Software Engineering\n\nSkills:\n- Programming Languages: JavaScript, Python, Java, TypeScript\n- Frameworks: React, Node.js, Express, Django\n- Databases: PostgreSQL, MongoDB, Redis\n- Tools: Git, Docker, AWS, Jenkins\n- Methodologies: Agile, Test-Driven Development\n\nProjects:\nE-commerce Platform (2023)\n- Built a scalable e-commerce platform serving 100k+ users\n- Implemented payment processing, inventory management, and user authentication\n- Used microservices architecture with Docker and Kubernetes\n\nPersonal Finance App (2022)\n- Developed a mobile app for budget tracking and financial planning\n- Integrated with bank APIs for real-time transaction data\n- Achieved 4.8-star rating on app stores with 50k+ downloads\n\nThis is a comprehensive resume that should provide plenty of content for testing the text extraction and preview functionality."
+    }
+  ]
+}

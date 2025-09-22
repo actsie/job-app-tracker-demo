@@ -1,0 +1,23 @@
+John Doe
+Software Engineer Resume
+
+EXPERIENCE:
+• Senior Software Engineer at Tech Corp (2020-2024)
+• Full-stack development with React, Node.js, Python
+• Led team of 5 engineers on mobile app project
+• Increased system performance by 40%
+
+EDUCATION:
+• Computer Science Degree, State University (2020)
+• GPA: 3.8/4.0
+
+SKILLS:
+• Programming: JavaScript, Python, TypeScript, Java
+• Frameworks: React, Vue.js, Express, Django
+• Databases: PostgreSQL, MongoDB, Redis
+• Cloud: AWS, Docker, Kubernetes
+
+CONTACT:
+Email: john.doe@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe

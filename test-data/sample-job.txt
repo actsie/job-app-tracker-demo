@@ -1,0 +1,17 @@
+Senior Software Engineer at TechCorp
+
+We are looking for a Senior Software Engineer to join our growing team at TechCorp. This role involves developing scalable web applications using modern technologies.
+
+Responsibilities:
+- Design and implement robust software solutions
+- Collaborate with cross-functional teams
+- Mentor junior developers
+- Participate in code reviews
+
+Requirements:
+- 5+ years of experience in software development
+- Proficiency in JavaScript, React, and Node.js
+- Experience with cloud platforms
+- Strong problem-solving skills
+
+TechCorp offers competitive salary, health benefits, and flexible work arrangements.
