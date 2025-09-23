@@ -103,6 +103,20 @@ export default function SettingsPage() {
                         <h4 className="font-medium">Application Version</h4>
                         <p className="text-sm text-gray-600">Job Application Tracker v1.0.0</p>
                       </div>
+                      <div className="p-4 bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg border border-purple-200">
+                        <p className="text-sm text-gray-700">
+                          Built with <span className="text-red-500">♥</span> using{' '}
+                          <a 
+                            href="https://pawgrammer.com" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-purple-600 hover:text-purple-800 font-medium underline decoration-purple-400 decoration-2 underline-offset-2"
+                          >
+                            Pawgrammer.com
+                          </a>
+                          {' '}- Unlock the power of Claude Code
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </CardContent>
