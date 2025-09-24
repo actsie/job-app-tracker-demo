@@ -105,7 +105,7 @@ export default function SettingsPage() {
                       </div>
                       <div className="p-4 bg-white rounded-lg border border-purple-200">
                         <p className="text-sm text-gray-700">
-                          Built with <span className="text-red-500">♥</span> using{' '}
+                          Built with 💜 using{' '}
                           <a 
                             href="https://pawgrammer.com" 
                             target="_blank" 
